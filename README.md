@@ -1,3 +1,6 @@
+<img width="1446" height="864" alt="image" src="https://github.com/user-attachments/assets/ef0e8dc1-5169-4a71-981c-4ae1155b1fb2" />
+
+
 # The Cyber Crew: Linux Terminal Adventures
 
 Run and deploy your app. This contains everything you need to run your app locally.
