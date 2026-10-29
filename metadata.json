@@ -1,0 +1,6 @@
+{
+  "name": "The Cyber Crew: Linux Terminal Adventures",
+  "description": "An interactive storybook Linux adventure game where you join Kazz, Windel, Kali, and Debbie to solve system crises using a collapsible Linux terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_META_API"]
+}

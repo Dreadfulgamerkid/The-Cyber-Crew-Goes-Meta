@@ -1,0 +1,14 @@
+The morning sunlight danced across the gentle ripples of Lake Binary. Kazz, Windel, Kali, and Debbie gathered on the wooden dock, eager for their next challenge. They locked hands in the center of the circle, looked up, and cheered in unison: "Root permissions, ready to go! Three, two, one... SUDO!" A bright emerald terminal window popped open over the water with a pleasant chime. 
+
+Suddenly, a tiny delivery submarine surfaced next to the dock. It carried a single, glowing glass cylinder containing a rare golden blueprint named solar_engine.cad. "Special delivery!" Windel gasped, pushing his square glasses up his nose. "It's the only copy of the town's backup power plan! But what if a sudden storm hits the dock? If we only have one copy, we could lose it forever!" "He is right," Debbie said, flipping to a clean page in her spiral notebook. "A system without a backup is a system waiting to fail. We must make an exact replica to store in our archive." 
+
+Kali smiled, stepping up to the floating terminal. "We don't just move files around—we make duplicates so we always have a safety net. Who knows our brand-new command for making an exact copy?" Windel bounced on his yellow sneakers, looking right out at the reader. "It's short, simple, and stands for copy... That's right! cp!" Kali entered the command into the terminal: cp solar_engine.cad solar_engine_backup.cad Ping! A second glowing cylinder identical to the first materialized right beside the original. 
+
+
+"Perfect!" Kazz said, his bright jacket shimmering. "Now let's verify both copies are here." "What command do we use to list everything in our current folder?" "ls!" the Kazz replied. Kali typed ls, and the terminal showed: solar_engine.cad solar_engine_backup.cad 
+
+
+"Now, let's create a dedicated backup folder so they don't get mixed up," Debbie suggested. Kali typed: mkdir /archive_vault "And finally, let's move only the backup into the new vault using our mover command: mv!" Windel cheered. Kali executed the final line: mv solar_engine_backup.cad /archive_vault/ WHOOSH! The duplicate cylinder glided smoothly into the sturdy vault, locking safely into place with a warm green checkmark. .
+
+
+Debbie closed her notebook with a satisfying snap. "Backup created, original preserved, directory safe." The four friends lined up along the sunny dock, smiling proudly. "You just learned cp—one of the most powerful safety tools in the entire system," Kali said with a warm grin. "Always protect your data, and we'll see you on the next adventure!" 
